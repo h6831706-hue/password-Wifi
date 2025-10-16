@@ -1,0 +1,7 @@
+Device Types Supported:
+- Heart rate monitors
+- Smart scales
+- Sleep trackers
+- Blood pressure monitors
+- Glucose monitors (for health tracking)
+- Smart water bottles

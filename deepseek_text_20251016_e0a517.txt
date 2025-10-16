@@ -1,0 +1,4 @@
+- Smartwatch/smartphone sync (Apple Health, Google Fit, Fitbit)
+- Gym equipment connectivity (Peloton, NordicTrack, etc.)
+- Wearable device integration (Whoop, Oura Ring, Garmin)
+- Home exercise equipment API connections
